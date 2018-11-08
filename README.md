@@ -1,0 +1,2 @@
+# rentas
+Pagina de rentas
